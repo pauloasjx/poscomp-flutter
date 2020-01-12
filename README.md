@@ -1,16 +1,25 @@
-# poscomp
+# Poscomp-flutter
 
-Poscomp App
+Aplicativo feito para treinar no poscomp, ainda não está completo.
 
-## Getting Started
+Ele utilliza o formato Html/LaTeX para renderizar as questões, o parse foi feito automaticamente por OCR e ajustado manualmente para a melhor representação no MathJax.
 
-This project is a starting point for a Flutter application.
+Segue o repositório: [https://github.com/pstwh/poscomp-tests](https://github.com/pstwh/poscomp-tests)
 
-A few resources to get you started if this is your first Flutter project:
+## Sobre o poscomp:
+**POSCOMP** é um exame organizado anualmente pela Sociedade Brasileira de Computação com o objetivo de avaliar os conhecimentos em computação dos candidatos a vagas em programas de pós-graduação na área. As instituições que oferecem as vagas utilizam o resultado do exame de diversas formas em seus processos seletivos.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[https://pt.wikipedia.org/wiki/Poscomp](https://pt.wikipedia.org/wiki/Poscomp)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Algumas imagens
+
+<div style="float: left;">
+<img src="https://github.com/pstwh/poscomp-flutter/blob/master/images/1p.gif?raw=true" width="200"/>
+<img src="https://github.com/pstwh/poscomp-flutter/blob/master/images/2p.gif?raw=true" width="200"/>
+<img src="https://github.com/pstwh/poscomp-flutter/blob/master/images/3p.jpg?raw=true" width="200"/>
+<img src="https://github.com/pstwh/poscomp-flutter/blob/master/images/4p.jpg?raw=true" width="200"/>
+<img src="https://github.com/pstwh/poscomp-flutter/blob/master/images/5p.jpg?raw=true" width="200"/>
+</div>
+
+
+
